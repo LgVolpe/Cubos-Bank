@@ -31,15 +31,15 @@ A API estará disponível em http://localhost:3000 por padrão. Você pode usar 
 
 Rotas da API:
 
-router.get '/contas'
-router.post '/contas'
-router.put '/contas/:numeroConta/usuario'
-router.delete '/contas/:numeroConta'
-router.post '/transacoes/depositar'
-router.post '/transacoes/sacar'
-router.post '/transacoes/transferir/'
-router.get '/contas/saldo'
-router.get '/contas/extrato'
+- router.get '/contas'
+- router.post '/contas'
+- router.put '/contas/:numeroConta/usuario'
+- router.delete '/contas/:numeroConta'
+- router.post '/transacoes/depositar'
+- router.post '/transacoes/sacar'
+- router.post '/transacoes/transferir/'
+- router.get '/contas/saldo'
+- router.get '/contas/extrato'
 
-Contribuição
+Contribuição:
 Sinta-se à vontade para contribuir com melhorias neste projeto. Abra um problema ou envie uma solicitação de recebimento.
